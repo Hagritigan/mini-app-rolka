@@ -1,0 +1,25 @@
+body {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+}
+
+.some {
+    background: center no-repeat url("../assets/persik.png");
+}
+
+.button {
+    margin: 16px 0;
+}
+
+.main_wrrapper {
+    padding: 24px;
+    background: white;
+}
+
+.back-button {
+    width: 300px;
+    height: 200px;
+}
